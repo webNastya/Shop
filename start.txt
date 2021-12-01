@@ -1,0 +1,3 @@
+Для запуска откройте командную строку в корневом каталоге и введите npm install, затем npm run dev
+Пример ссылки на изображение
+https://www.sbras.info/system/files/image/photo_pubrec/7036/2016-05-05/22-kosmos-oboi-kartinki-foto-1920x1080.jpg
